@@ -34,14 +34,14 @@ Through thick and thin
 ---
 
 ## Slide 8
-bb
+Once in a blue moon
 
 ---
 
 ## Slide 9
-cc
+It’s the best thing since sliced bread
 
 ---
 
 ## Slide 10
-cc
+Take it with a pinch of salt
