@@ -1,12 +1,12 @@
-## Slide 6
-かわいい子には旅をさせよ
+## Slide 1
+aa
 
 ---
 
-## Slide 7
-色気より食い気
+## Slide 2
+bb
 
 ---
 
-## Slide 8
-嘘から出た実
+## Slide 3
+cc
