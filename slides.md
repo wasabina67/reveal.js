@@ -9,27 +9,27 @@ The ball is in your court
 ---
 
 ## Slide 3
-cc
+Spill the beans
 
 ---
 
 ## Slide 4
-aa
+Break a leg
 
 ---
 
 ## Slide 5
-bb
+Pull someone’s leg
 
 ---
 
 ## Slide 6
-cc
+Sat on the fence
 
 ---
 
 ## Slide 7
-aa
+Through thick and thin
 
 ---
 
